@@ -3,4 +3,4 @@ A game where the player can jump and collect yellow objects and avoid red object
 At the end of the game the player is presented with best scores and can either quit or play again.
 
 # Development
-The game was developed in C# with Unity.
+The game was written in C# and developed with Unity.
